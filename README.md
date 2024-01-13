@@ -1,7 +1,7 @@
 # Fabian Amino
 
 ## Full Stack Developer with a Special Preference for Front-end
-[![trophy](https://github-profile-trophy.vercel.app/?username=aminofabian)](https://github.com/aminofabian/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aminofabian&row=2&column=3)](https://github.com/aminofabian/github-profile-trophy)
 
 
 Feel free to connect with me on my social media platforms:
@@ -45,8 +45,4 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 - 📐 UI/UX Enchantment
   
  ![Amino Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=transparent)
- https://github-profile-trophy.vercel.app/?username=aminofabian&title=Followers
-
 ---
-
-
