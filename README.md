@@ -1,8 +1,8 @@
 # Fabian Amino
 
 ## Full Stack Developer with a Special Preference for Front-end
-[![GitHub Stars](https://img.shields.io/github/stars/aminofabian/zelisline?style=social)](https://github.com/aminofabian/zelisline)
-[![GitHub Commits](https://img.shields.io/github/commit-activity/y/aminofabian/zelisline?style=social)](https://github.com/aminofabian/zelisline)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aminofabian)](https://github.com/aminofabian/github-profile-trophy)
+
 
 Feel free to connect with me on my social media platforms:
 
@@ -41,4 +41,3 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 | Spline           | ![Spline](https://img.shields.io/badge/Spline-000000?style=flat&logo=spline&logoColor=white)          |
 | Python           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)           |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aminofabian)](https://github.com/aminofabian/github-profile-trophy)
