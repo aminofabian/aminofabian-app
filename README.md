@@ -40,3 +40,5 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 | Next.js          | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)          |
 | Spline           | ![Spline](https://img.shields.io/badge/Spline-000000?style=flat&logo=spline&logoColor=white)          |
 | Python           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)           |
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aminofabian)](https://github.com/aminofabian/github-profile-trophy)
