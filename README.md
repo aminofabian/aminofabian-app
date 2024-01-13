@@ -27,18 +27,24 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I am a huge fan of game development, and I have recently started learning Unity to explore this passion further.
 
-## Technologies I Use
+### 🪄 Magic Toolkit
 
-| Technology       | Logo                                                                                      |
-|------------------|-------------------------------------------------------------------------------------------|
-| Node.js          | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)           |
-| Flutter          | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)         |
-| React            | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)             |
-| React Native     | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)      |
-| Dart             | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)               |
-| Nest.js          | ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)          |
-| Next.js          | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)          |
-| Spline           | ![Spline](https://img.shields.io/badge/Spline-000000?style=flat&logo=spline&logoColor=white)          |
-| Python           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)           |
+#### Languages and Frameworks
+
+- 💻 JavaScript (Node.js, React)
+- 📱 Flutter, React Native
+- 🎨 Dart, Next.js, Nest.js
+- ✨ Spline (Currently mastering the magical arts)
+- 🐍 Python (Experimenting with this mystical language)
+
+#### Tools and Skills
+
+- 🧙‍♂️ Full Stack Sorcery
+- 🎮 Unity Game Development
+- 🚀 Continuous Learning
+- 📐 UI/UX Enchantment
+
+---
+
 
 ![Amino Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=transparent)
