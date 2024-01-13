@@ -1,14 +1,21 @@
 # Fabian Amino
 
 ## Full Stack Developer with a Special Preference for Front-end
+[![GitHub Stars](https://img.shields.io/github/stars/aminofabian/zelisline?style=social)](https://github.com/aminofabian/zelisline)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/y/aminofabian/zelisline?style=social)](https://github.com/aminofabian/zelisline)
+
 Feel free to connect with me on my social media platforms:
 
-| Platform         | Link                                                                                      |
-|------------------|-------------------------------------------------------------------------------------------|
-| LinkedIn         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-amino-b6bba5253/)          |
-| Twitter          | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)         |
-| Facebook         | [![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-handle)          |
-| Website          | [![Website](https://img.shields.io/badge/Website-6D4C41?style=flat&logo=web&logoColor=white)](https://www.yourwebsite.com/)   
+### 💬 Let's Connect
+
+🌐 [LinkedIn](https://www.linkedin.com/in/fabian-amino-b6bba5253/) | 🐦 [Twitter](https://twitter.com/aminofabian) | 📘 [Facebook](https://www.facebook.com/aminofabian) | 🌐 [Website](https://www.aminofabian.com/)
+
+---
+
+### 🤖 Current Projects
+
+- 🌌 Exploring the galaxy of Spline
+- 🐍 Conjuring spells with Python
 
 Currently working as a Full Stack Developer, I have always been fascinated by technology and its endless possibilities. Three years ago, I decided to turn my passion for coding into a career, and since then, I have never looked back.
 
@@ -33,5 +40,3 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 | Next.js          | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)          |
 | Spline           | ![Spline](https://img.shields.io/badge/Spline-000000?style=flat&logo=spline&logoColor=white)          |
 | Python           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)           |
-
-       |
