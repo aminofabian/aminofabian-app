@@ -27,7 +27,7 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I am a huge fan of game development, and I have recently started learning Unity to explore this passion further.
 
-### 🪄 Magic Toolkit
+ ### 🪄 Magic Toolkit
 
 #### Languages and Frameworks
 
@@ -43,8 +43,10 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 - 🎮 Unity Game Development
 - 🚀 Continuous Learning
 - 📐 UI/UX Enchantment
+  
+ ![Amino Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=transparent)
+ https://github-profile-trophy.vercel.app/?username=aminofabian&title=Followers
 
 ---
 
 
-![Amino Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=transparent)
