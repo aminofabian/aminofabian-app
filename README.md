@@ -41,3 +41,4 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 | Spline           | ![Spline](https://img.shields.io/badge/Spline-000000?style=flat&logo=spline&logoColor=white)          |
 | Python           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)           |
 
+![Amino Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=transparent)
