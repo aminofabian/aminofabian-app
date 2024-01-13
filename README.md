@@ -1,7 +1,6 @@
 # Fabian Amino
 
 ## Full Stack Developer with a Special Preference for Front-end
-[![trophy](https://github-profile-trophy.vercel.app/?username=aminofabian&row=2&column=3)](https://github.com/aminofabian/github-profile-trophy)
 
 
 Feel free to connect with me on my social media platforms:
