@@ -7,7 +7,7 @@ Feel free to connect with me on my social media platforms:
 
 ### 💬 Let's Connect
 
-🌐 [LinkedIn](https://www.linkedin.com/in/fabian-amino-b6bba5253/) | 🐦 [Twitter](https://twitter.com/aminofabian) | 📘 [Facebook](https://www.facebook.com/aminofabian) | 🌐 [Website](https://www.aminofabian.com/)
+🌐 [LinkedIn](https://www.linkedin.com/in/fabian-amino-b6bba5253/) | 🐦 [Twitter](https://twitter.com/amino_fabian) | 📘 [Facebook](https://www.facebook.com/aminofabian) | 🌐 [Website](https://www.aminofabian.com/)
 
 ---
 
