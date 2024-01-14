@@ -3,7 +3,6 @@
 ## Full Stack Developer with a Special Preference for Front-end
 <img src="https://komarev.com/ghpvc/?username=aminofabian&style=flat-square&color=blue" alt=""/>
 
-
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ### 💬 Let's Connect
-Feel free to connect with me on these social media platforms:
+
 🌐 [LinkedIn](https://www.linkedin.com/in/fabian-amino-b6bba5253/) | 🐦 [Twitter](https://twitter.com/amino_fabian) | 📘 [Facebook](https://www.facebook.com/aminofabian) | 🌐 [Website](https://www.aminofabian.com/)
 
 ---
