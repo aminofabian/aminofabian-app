@@ -1,6 +1,8 @@
 # Fabian Amino
 
 ## Full Stack Developer with a Special Preference for Front-end
+<img src="https://komarev.com/ghpvc/?username=aminofabian&style=flat-square&color=blue" alt=""/>
+
 
 
 Feel free to connect with me on these social media platforms:
