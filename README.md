@@ -60,6 +60,7 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 - 🚀 Continuous Learning
 - 📐 UI/UX Enchantment
   
- ![Amino Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=transparent)
+ ![Amino Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=transparent)   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminofabian&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminofabian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminofabian&theme=dark&background=000000)](https://git.io/streak-stats)
