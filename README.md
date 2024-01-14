@@ -3,7 +3,7 @@
 ## Full Stack Developer with a Special Preference for Front-end
 
 
-Feel free to connect with me on my social media platforms:
+Feel free to connect with me on these social media platforms:
 
 ### 💬 Let's Connect
 
