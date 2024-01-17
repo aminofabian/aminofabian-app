@@ -51,7 +51,15 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 - 🎨 Dart, Next.js, Nest.js
 - ✨ Spline (Currently mastering the magical arts)
 - 🐍 Python (Experimenting with this mystical language)
-
+- 
+### 📊 Databases:
+- MongoDB 📦
+- Firebase 🔥
+- PostgreSQL 🐘
+- SQLite 🗃️
+- SQLAlchemy  🐍
+- MySQL 🧾
+  
 #### Tools and Skills
 
 - 🧙‍♂️ Full Stack Sorcery
