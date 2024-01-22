@@ -61,7 +61,6 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 - MySQL 🧾
   
 #### 🐘 Tools and Skills
-
 - 🧙‍♂️ Full Stack Sorcery
 - 🎮 Unity Game Development
 - 🚀 Continuous Learning
