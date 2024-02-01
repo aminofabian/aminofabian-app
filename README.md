@@ -51,7 +51,7 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 
 ### 🧾 Languages and Frameworks
 
-- 💻 JavaScript (Node.js, React)
+- 💻 JavaScript (Node.js, React, BunJs)
 - 📱 Flutter, React Native
 - 🎨 Dart, Next.js, Nest.js
 - ✨ Spline (Currently mastering the magical arts)
