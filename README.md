@@ -24,8 +24,8 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="Three.js" alt="Three.js" width="40" height="40"/>
 </div>
-### 💬 Let's Connect:
-
+### 💬
+Let's Connect:
 🌐 [LinkedIn](https://www.linkedin.com/in/fabian-amino-b6bba5253/) | 🐦 [Twitter](https://twitter.com/amino_fabian) | 📘 [Facebook](https://www.facebook.com/aminofabian) | 🌐 [Website](https://www.aminofabian.com/) | 🆉  [Zelisline](https://www.zelisline.co.ke/) | Ⓜ [Medium](https://www.medium.com/@aminofabian/)
 ---
 ### 🤖 Current Projects
