@@ -63,7 +63,7 @@ I’m looking to collaborate on projects that challenge me to push my limits and
 - SQLAlchemy  🐍
 - MySQL 🧾
   
-#### 🐘 Tools and Skills
+### 🐘 Tools and Skills
 
 - 🧙‍♂️ Full Stack Sorcery
 - 🎮 Unity Game Development
