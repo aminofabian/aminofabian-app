@@ -1,107 +1,158 @@
-# Fabian Amino <img src="https://komarev.com/ghpvc/?username=aminofabian&style=flat-square&color=blue" alt="Profile Views" /> 
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast;UI%2FUX+Designer;Tech+Innovator)](https://git.io/typing-svg)
+```ascii
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   ███████╗ █████╗ ██████╗ ██╗ █████╗ ███╗   ██╗            ║
+ ║   ██╔════╝██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║            ║
+ ║   █████╗  ███████║██████╔╝██║███████║██╔██╗ ██║            ║
+ ║   ██╔══╝  ██╔══██║██╔══██╗██║██╔══██║██║╚██╗██║            ║
+ ║   ██║     ██║  ██║██████╔╝██║██║  ██║██║ ╚████║            ║
+ ║   ╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝            ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=3000&pause=1000&color=3DD1F7&center=true&vCenter=true&repeat=false&width=800&lines=Welcome+to+my+Digital+Playground+🎮;Where+Code+Meets+Creativity+🎨;Full+Stack+Developer+by+Day+👨‍💻;Creative+Explorer+by+Night+🌙)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=aminofabian&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
 
-## 👨‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400">
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+## 🎮 Quick Start Guide
 
-```javascript
-const fabian = {
-    location: "Nairobi, Kenya 🌍",
-    role: "Full Stack Developer",
-    specialization: "Frontend Development",
-    experience: "3+ years",
-    interests: ["UI/UX", "Game Dev", "3D Graphics"],
-    currentLearning: ["Spline", "Python", "Unity"],
-    funFact: "Turning coffee ☕ into code since 2021"
-};
+```python
+class FullStackDeveloper:
+    def __init__(self):
+        self.name = "Fabian Amino"
+        self.role = "Full Stack Developer"
+        self.location = "Nairobi, Kenya 🌍"
+        self.languages = ["Python", "JavaScript", "Dart", "Java"]
+        self.challenge = "Building a game in Unity"
+        self.fun_fact = "I can code with my eyes closed... just kidding! 😄"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together!")
+
+me = FullStackDeveloper()
+me.say_hi()
 ```
 
-## 🛠️ Tech Arsenal
+## 🎨 Art Gallery (Skills & Tools)
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+```mermaid
+mindmap
+  root((Fabian's Tech Universe))
+    Frontend Magic
+      React & Next.js
+      Three.js
+      Flutter
+      UI/UX Design
+    Backend Sorcery
+      Node.js
+      NestJS
+      Spring
+      PHP
+    Database Realms
+      MongoDB
+      PostgreSQL
+      Firebase
+      MySQL
+    Cloud Kingdom
+      AWS
+      Heroku
+      Vercel
+    Creative Tools
+      Spline
+      Unity
+      Figma
+```
 
 </div>
 
-## 🎯 Current Projects
+## 🌟 Achievement Unlocked
+
+<div align="center">
+
+| 🏆 Achievements | 🎯 Current Quests |
+|----------------|-------------------|
+| ![Trophy](https://github-profile-trophy.vercel.app/?username=aminofabian&theme=darkhub&row=1&column=4&margin-w=15&no-frame=true) | ![Current Streak](http://github-readme-streak-stats.herokuapp.com?user=aminofabian&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) |
+
+</div>
+
+## 🎵 Currently Playing With
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌌 Spline Exploration</h3>
-      <p align="center">
-        Diving deep into 3D web experiences
-        <br><br>
-        <a href="https://spline.design/@aminofabian">View Project</a>
-      </p>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%">
+      <br>
+      <h3>🎮 Game Development</h3>
+      <p>Learning Unity & Building Interactive Experiences</p>
     </td>
-    <td width="50%">
-      <h3 align="center">🐍 Python Adventures</h3>
-      <p align="center">
-        Building automation and AI solutions
-        <br><br>
-        <a href="https://github.com/aminofabian/python-projects">View Project</a>
-      </p>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+      <br>
+      <h3>🌌 3D Web Experiences</h3>
+      <p>Crafting Immersive Interfaces with Spline & Three.js</p>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## 📊 Player Stats
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aminofabian&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  
-<img src="https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminofabian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+```ascii
+Level 3 Full Stack Developer
+XP: ███████████████░░░░░ 78%
+```
+
+<img width="725" src="https://github-readme-activity-graph.vercel.app/graph?username=aminofabian&custom_title=Contribution%20Galaxy&theme=react-dark&hide_border=true" />
 
 </div>
 
-## 🤝 Let's Connect
+## 🌐 Multiplayer Zone
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-amino-b6bba5253/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amino_fabian)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.aminofabian.com/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@aminofabian/)
+
+[![LinkedIn](https://img.shields.io/badge/Join_My_Network-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-amino-b6bba5253/)
+[![Twitter](https://img.shields.io/badge/Follow_My_Quest-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amino_fabian)
+[![Website](https://img.shields.io/badge/Visit_My_Base-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.aminofabian.com/)
+[![Medium](https://img.shields.io/badge/Read_My_Stories-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@aminofabian/)
 
 </div>
 
-### 📬 Get in Touch
-- 💼 Professional inquiries: hello@aminofabian.com
-- 🤝 Collaborations: aminofabian@gmail.com
+## 🎮 Start New Game (Contact)
+
+<div align="center">
+
+```ascii
+⌨️  hello@aminofabian.com  🎮  aminofabian@gmail.com
+```
+
+<details>
+<summary>🎲 Random Fun Facts</summary>
+<br>
+  
+- 🎮 I dream in code and debug in my sleep
+- 🌟 I can turn coffee into code with 99.9% efficiency
+- 🚀 I believe every bug is just an undocumented feature
+- 🎨 I speak fluent HTML, CSS, and Meme
+- 🌈 My favorite HTTP status code is 418 (I'm a teapot)
+  
+</details>
 
 ---
-<div align="center">
-  
-*"The only way to do great work is to love what you do."* - Steve Jobs
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100">
+
+```ascii
+PRESS START TO COLLABORATE
+```
 
 </div>
