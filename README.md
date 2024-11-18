@@ -13,7 +13,7 @@
  ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0288F3&center=true&vCenter=true&repeat=false&width=800&lines=WWWelcome+to+my+Digital+Playground+🎮;Where+Code+Meets+Creativity+🎨;Full+Stack+Developer+by+Day+👨‍💻;Creative+Explorer+by+Night+🌙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0288F3&center=true&vCenter=true&repeat=false&width=800&lines=Welcome+to+my+Digital+Playground+🎮;Where+Code+Meets+Creativity+🎨;Full+Stack+Developer+by+Day+👨‍💻;Creative+Explorer+by+Night+🌙)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=aminofabian&style=for-the-badge&color=0288F3" alt="Profile Views"/>
 
@@ -29,7 +29,12 @@ class FullStackDeveloper:
         self.name = "Fabian Amino"
         self.role = "Full Stack Developer"
         self.location = "Nairobi, Kenya 🌍"
-        self.languages = ["Python", "JavaScript", "Dart", "Java"]
+        self.languages = {
+            "Python": "🐍",
+            "JavaScript": "⚡",
+            "Dart": "🎯",
+            "Java": "☕"
+        }
         self.challenge = "Building a game in Unity"
         self.fun_fact = "I can code with my eyes closed... just kidding! 😄"
     
@@ -44,6 +49,12 @@ me.say_hi()
 
 <div align="center">
 
+[![Tech Stack](https://img.shields.io/badge/TECH_STACK-%230288F3.svg?style=for-the-badge&logoColor=white)](#)
+[![React](https://img.shields.io/badge/react-%23D5573C.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-%236D2431.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-%23F39409.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-%230288F3.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0288f3', 'secondaryColor': '#d5573c', 'tertiaryColor': '#6d2431', 'mainBkg': '#676a83', 'nodeBkg': '#653545'}}}%%
 mindmap
@@ -56,8 +67,7 @@ mindmap
     Backend Sorcery
       Node.js
       NestJS
-GO
-Elixir
+      GO & Elixir
       Spring
       PHP
     Database Realms
