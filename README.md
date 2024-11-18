@@ -1,178 +1,159 @@
 <div align="center">
-
-<!-- Custom Banner with Primary Color -->
+  
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║            Welcome to My Digital Workshop                    ║
-║                                                              ║
-║           < Fabian Amino | Full Stack Developer >            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   ███████╗ █████╗ ██████╗ ██╗ █████╗ ███╗   ██╗            ║
+ ║   ██╔════╝██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║            ║
+ ║   █████╗  ███████║██████╔╝██║███████║██╔██╗ ██║            ║
+ ║   ██╔══╝  ██╔══██║██╔══██╗██║██╔══██║██║╚██╗██║            ║
+ ║   ██║     ██║  ██║██████╔╝██║██║  ██║██║ ╚████║            ║
+ ║   ╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝            ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<!-- Animated Text with Primary Blue -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0288F3&center=true&vCenter=true&width=800&lines=Frontend+Specialist+%26+UI+Engineer;Creative+Developer+from+Nairobi;Building+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0288F3&center=true&vCenter=true&repeat=false&width=800&lines=Welcome+to+my+Digital+Playground+🎮;Where+Code+Meets+Creativity+🎨;Full+Stack+Developer+by+Day+👨‍💻;Creative+Explorer+by+Night+🌙)](https://git.io/typing-svg)
 
-<!-- Profile Views Counter with Orange Accent -->
-<img src="https://komarev.com/ghpvc/?username=aminofabian&style=for-the-badge&color=F39409" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=aminofabian&style=for-the-badge&color=0288F3" alt="Profile Views"/>
 
 </div>
 
-<!-- About Section -->
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me</h2>
+<img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400">
 
-<div align="left">
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250"/>
+## <span style="color: #d5573c">🎮 Quick Start Guide</span>
 
-```javascript
-// Exploring the digital frontier since 2021
-const fabian = {
-    role: "Full Stack Developer",
-    location: "Nairobi, Kenya",
-    expertise: ["Frontend", "UI/UX", "Web3"],
-    currentFocus: "Building immersive web experiences",
-    passions: [
-        "Clean Code",
-        "Creative Design",
-        "User Experience",
-        "Innovation"
-    ]
-};
+```python
+class FullStackDeveloper:
+    def __init__(self):
+        self.name = "Fabian Amino"
+        self.role = "Full Stack Developer"
+        self.location = "Nairobi, Kenya 🌍"
+        self.languages = ["Python", "JavaScript", "Dart", "Java"]
+        self.challenge = "Building a game in Unity"
+        self.fun_fact = "I can code with my eyes closed... just kidding! 😄"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together!")
+
+me = FullStackDeveloper()
+me.say_hi()
 ```
-</div>
 
-<!-- Tech Stack - Using custom colors -->
-<h2>🛠️ Technology Arsenal</h2>
+## <span style="color: #f39409">🎨 Art Gallery (Skills & Tools)</span>
 
 <div align="center">
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0288f3', 'secondaryColor': '#d5573c', 'tertiaryColor': '#6d2431', 'mainBkg': '#676a83', 'nodeBkg': '#653545'}}}%%
+mindmap
+  root((Fabian's Tech Universe))
+    Frontend Magic
+      React & Next.js
+      Three.js
+      Flutter
+      UI/UX Design
+    Backend Sorcery
+      Node.js
+      NestJS
+      Spring
+      PHP
+    Database Realms
+      MongoDB
+      PostgreSQL
+      Firebase
+      MySQL
+    Cloud Kingdom
+      AWS
+      Heroku
+      Vercel
+    Creative Tools
+      Spline
+      Unity
+      Figma
+```
+
+</div>
+
+## <span style="color: #6d2431">🌟 Achievement Unlocked</span>
+
+<div align="center">
+
+| 🏆 Achievements | 🎯 Current Quests |
+|----------------|-------------------|
+| ![Trophy](https://github-profile-trophy.vercel.app/?username=aminofabian&theme=darkhub&row=1&column=4&margin-w=15&no-frame=true) | ![Current Streak](http://github-readme-streak-stats.herokuapp.com?user=aminofabian&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=0288F3&fire=D5573C&currStreakNum=F39409&sideNums=0288F3) |
+
+</div>
+
+## <span style="color: #653545">🎵 Currently Playing With</span>
+
 <table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎨 Frontend
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/React-0288F3?style=for-the-badge&logo=react&logoColor=white" alt="React"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-6D2431?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Three.js-D5573C?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Material_UI-F39409?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/></a>
-</div>
-</td>
-<td valign="top" width="33%">
-
-### ⚡ Backend
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/Node.js-653545?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
-<a href="#"><img src="https://img.shields.io/badge/NestJS-676A83?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Spring-6D2431?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
-</div>
-</td>
-<td valign="top" width="33%">
-
-### 🛢️ Database & Cloud
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-0288F3?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Firebase-F39409?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS-D5573C?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Featured Projects -->
-<h2>🚀 Featured Projects</h2>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3 style="color: #0288F3;">🌟 Spline Experiments</h3>
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
-<br/>
-<div style="background-color: #676A83; padding: 10px; border-radius: 5px;">
-<strong>3D Web Experiences</strong>
-<br/>
-<a href="https://spline.design/@aminofabian">View Project →</a>
-</div>
-</td>
-<td width="50%" align="center">
-<h3 style="color: #F39409;">🎮 Unity Adventures</h3>
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
-<br/>
-<div style="background-color: #676A83; padding: 10px; border-radius: 5px;">
-<strong>Game Development Journey</strong>
-<br/>
-<a href="https://github.com/aminofabian/unity-projects">View Project →</a>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- GitHub Stats with Custom Colors -->
-<h2>📊 Developer Metrics</h2>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminofabian&background=00000000&border=0288F3&stroke=0288F3&ring=D5573C&fire=F39409&currStreakNum=676A83&sideNums=0288F3&currStreakLabel=6D2431&sideLabels=653545&dates=676A83)](https://git.io/streak-stats)
-
-</td>
-<td width="50%">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminofabian&layout=compact&bg_color=00000000&border_color=0288F3&title_color=D5573C&text_color=676A83)](https://github.com/aminofabian)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%">
+      <br>
+      <h3 style="color: #0288f3">🎮 Game Development</h3>
+      <p>Learning Unity & Building Interactive Experiences</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+      <br>
+      <h3 style="color: #d5573c">🌌 3D Web Experiences</h3>
+      <p>Crafting Immersive Interfaces with Spline & Three.js</p>
+    </td>
+  </tr>
 </table>
 
-<!-- Activity Graph with Custom Colors -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aminofabian&custom_title=Contribution%20Timeline&colors=D5573C&color=676A83&line=0288F3&point=F39409&bg_color=00000000&area_color=653545&title_color=0288F3&hide_border=true" />
-</div>
-
-<!-- Connect Section with Custom Colors -->
-<h2>🤝 Let's Connect</h2>
+## <span style="color: #676a83">📊 Player Stats</span>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/fabian-amino-b6bba5253/"><img src="https://img.shields.io/badge/LinkedIn-0288F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/amino_fabian"><img src="https://img.shields.io/badge/Twitter-D5573C?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.aminofabian.com/"><img src="https://img.shields.io/badge/Portfolio-6D2431?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"/></a>
-<a href="https://www.medium.com/@aminofabian"><img src="https://img.shields.io/badge/Medium-676A83?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  
+```ascii
+Level 3 Full Stack Developer
+XP: ███████████████░░░░░ 78%
+```
 
-### 📬 Get in Touch
-<div style="background-color: #676A83; padding: 15px; border-radius: 8px; display: inline-block;">
-<span style="color: #FFFFFF;">
-📧 hello@aminofabian.com | 🤝 aminofabian@gmail.com
-</span>
-</div>
+<img width="725" src="https://github-readme-activity-graph.vercel.app/graph?username=aminofabian&custom_title=Contribution%20Galaxy&theme=react-dark&hide_border=true&color=0288F3&line=D5573C&point=F39409&area=true&area_color=6D2431" />
+
 </div>
 
-<!-- Footer with Custom Colors -->
+## <span style="color: #0288f3">🌐 Multiplayer Zone</span>
+
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Join_My_Network-%230288F3.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-amino-b6bba5253/)
+[![Twitter](https://img.shields.io/badge/Follow_My_Quest-%23D5573C.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amino_fabian)
+[![Website](https://img.shields.io/badge/Visit_My_Base-%23F39409.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.aminofabian.com/)
+[![Medium](https://img.shields.io/badge/Read_My_Stories-%236D2431.svg?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@aminofabian/)
+
+</div>
+
+## <span style="color: #d5573c">🎮 Start New Game (Contact)</span>
+
+<div align="center">
+
+```ascii
+⌨️  hello@aminofabian.com  🎮  aminofabian@gmail.com
+```
+
+<details>
+<summary style="color: #0288f3">🎲 Random Fun Facts</summary>
+<br>
+  
+- 🎮 I dream in code and debug in my sleep
+- 🌟 I can turn coffee into code with 99.9% efficiency
+- 🚀 I believe every bug is just an undocumented feature
+- 🎨 I speak fluent HTML, CSS, and Meme
+- 🌈 My favorite HTTP status code is 418 (I'm a teapot)
+  
+</details>
 
 ---
 
-<details>
-<summary style="color: #0288F3;">✨ More About Me</summary>
-<br>
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100">
 
-- 🎨 UI/UX enthusiast with a passion for pixel-perfect designs
-- 🌱 Constantly learning and evolving in the tech space
-- 🎮 Game development hobbyist
-- 🌍 Passionate about creating impactful technology
-- ☕ Fueled by coffee and creativity
-
-</details>
-
-<div style="background-color: #676A83; padding: 10px; border-radius: 5px; display: inline-block;">
-<span style="color: #FFFFFF;">
-
-"Creating digital experiences that inspire and innovate"
-
-</span>
-</div>
+```ascii
+PRESS START TO COLLABORATE
+```
 
 </div>
