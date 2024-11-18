@@ -1,7 +1,7 @@
 <div align="center">
 
-# Fabian Amino
-## Full Stack Developer | Creative Technologist
+<h1>Fabian Amino</h1>
+<h2>Full Stack Developer | Creative Technologist</h2>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230288f3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://aminofabian.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23d5573c.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-amino-b6bba5253/)
@@ -12,7 +12,7 @@
 
 </div>
 
-## <span style="color: #059669">About Me</span>
+<h2 style="color: #059669">About Me</h2>
 
 Full Stack Developer based in Nairobi, Kenya, specializing in innovative web solutions and interactive experiences. Visit my portfolio at [aminofabian.com](https://aminofabian.com) to explore my latest projects and creative work.
 
@@ -41,7 +41,7 @@ class Developer:
         }
 ```
 
-## <span style="color: #059669">Technical Expertise</span>
+<h2 style="color: #059669">Technical Expertise</h2>
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0288f3', 'primaryTextColor': '#fff', 'primaryBorderColor': '#0288f3', 'lineColor': '#676a83'}}}%%
@@ -81,7 +81,7 @@ mindmap
       Figma
 ```
 
-## <span style="color: #059669">Featured Projects</span>
+<h2 style="color: #059669">Featured Projects</h2>
 *Explore more projects on [aminofabian.com](https://aminofabian.com)*
 
 - 🎨 **Interactive 3D Portfolio** - Built with Three.js and React
@@ -89,7 +89,7 @@ mindmap
 - 📱 **Cross-platform Apps** - Mobile solutions with Flutter
 - 🎮 **Game Development** - Interactive experiences with Unity
 
-## <span style="color: #059669">GitHub Analytics</span>
+<h2 style="color: #059669">GitHub Analytics</h2>
 
 <div align="center">
 
@@ -101,7 +101,7 @@ mindmap
 
 </div>
 
-## <span style="color: #059669">Let's Connect</span>
+<h2 style="color: #059669">Let's Connect</h2>
 
 - 🌐 Portfolio: [aminofabian.com](https://aminofabian.com)
 - 📧 Email: hello@aminofabian.com
