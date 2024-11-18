@@ -58,7 +58,7 @@ me.say_hi()
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0288f3', 'secondaryColor': '#d5573c', 'tertiaryColor': '#6d2431', 'mainBkg': '#676a83', 'nodeBkg': '#653545'}}}%%
 mindmap
-  root((Fabian&#39;s Tech Universe))
+  root((My Tech Universe))
     Frontend Magic
       React & Next.js
       Three.js
