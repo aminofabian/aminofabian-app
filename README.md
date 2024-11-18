@@ -56,6 +56,8 @@ mindmap
     Backend Sorcery
       Node.js
       NestJS
+GO
+Elixir
       Spring
       PHP
     Database Realms
