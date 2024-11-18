@@ -3,16 +3,18 @@
 # Fabian Amino
 ## Full Stack Developer | Creative Technologist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230288F3.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-amino-b6bba5253/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23D5573C.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.aminofabian.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-%230288F3.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amino_fabian)
-[![Blog](https://img.shields.io/badge/Medium-%236D2431.svg?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@aminofabian/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23059669.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://aminofabian.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23059669.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-amino-b6bba5253/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23059669.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amino_fabian)
+[![Blog](https://img.shields.io/badge/Medium-%23059669.svg?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@aminofabian/)
+
+[<img src="https://komarev.com/ghpvc/?username=aminofabian&style=for-the-badge&color=059669" alt="Profile Views"/>](https://aminofabian.com)
 
 </div>
 
 ## About Me
 
-Full Stack Developer based in Nairobi, Kenya, specializing in innovative web solutions and interactive experiences. I combine technical expertise with creative problem-solving to build engaging digital products.
+Full Stack Developer based in Nairobi, Kenya, specializing in innovative web solutions and interactive experiences. Visit my portfolio at [aminofabian.com](https://aminofabian.com) to explore my latest projects and creative work.
 
 ```python
 class Developer:
@@ -20,6 +22,7 @@ class Developer:
         self.name = "Fabian Amino"
         self.role = "Full Stack Developer"
         self.location = "Nairobi, Kenya"
+        self.portfolio = "https://aminofabian.com"
         self.expertise = [
             "Web Development",
             "Mobile Applications",
@@ -41,6 +44,7 @@ class Developer:
 ## Technical Expertise
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#059669', 'primaryTextColor': '#fff', 'primaryBorderColor': '#047857', 'lineColor': '#059669', 'secondaryColor': '#047857'}}}%%
 mindmap
   root((Technology Stack))
     Frontend
@@ -67,30 +71,35 @@ mindmap
       WebGL
 ```
 
-## Current Projects
+## Featured Projects
+*Explore more projects on [aminofabian.com](https://aminofabian.com)*
 
-- 🎨 Developing immersive 3D web experiences using Three.js
-- 🚀 Building scalable enterprise applications with Next.js
-- 📱 Creating cross-platform mobile applications with Flutter
-- 🎮 Exploring game development with Unity
+- 🎨 **Interactive 3D Portfolio** - Built with Three.js and React
+- 🚀 **Enterprise Solutions** - Scalable applications with Next.js
+- 📱 **Cross-platform Apps** - Mobile solutions with Flutter
+- 🎮 **Game Development** - Interactive experiences with Unity
 
 ## GitHub Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=react&hide_border=true)](https://github.com/aminofabian)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminofabian&layout=compact&theme=react&hide_border=true)](https://github.com/aminofabian)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&hide_border=true&title_color=059669&icon_color=059669&text_color=333333)](https://github.com/aminofabian)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminofabian&layout=compact&hide_border=true&title_color=059669&text_color=333333)](https://github.com/aminofabian)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminofabian&theme=transparent&hide_border=true&ring=059669&fire=059669&currStreakNum=333333&sideNums=333333)](https://github.com/aminofabian)
 
 </div>
 
 ## Let's Connect
 
-- 📧 Professional Inquiries: hello@aminofabian.com
+- 🌐 Portfolio: [aminofabian.com](https://aminofabian.com)
+- 📧 Email: hello@aminofabian.com
 - 💼 LinkedIn: [Fabian Amino](https://www.linkedin.com/in/fabian-amino-b6bba5253/)
-- 🌐 Portfolio: [aminofabian.com](https://www.aminofabian.com)
+- 📝 Blog: [Medium](https://www.medium.com/@aminofabian/)
 
 ---
 
 <div align="center">
-<i>Passionate about creating meaningful digital experiences and solving complex problems through code.</i>
+<i>Creating innovative digital experiences through code and creativity. Visit <a href="https://aminofabian.com">aminofabian.com</a> to learn more.</i>
 </div>
