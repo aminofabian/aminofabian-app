@@ -82,7 +82,7 @@ mindmap
 ```
 
 <h2 style="color: #059669">Featured Projects</h2>
-*Explore more projects on [aminofabian.com](https://aminofabian.com)*
+*Explore more projects on aminofabian.com *
 
 - 🎨 **Interactive 3D Portfolio** - Built with Three.js and React
 - 🚀 **Enterprise Solutions** - Scalable applications with Next.js
