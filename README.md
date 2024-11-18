@@ -13,7 +13,7 @@
  ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0288F3&center=true&vCenter=true&repeat=false&width=800&lines=Welcome+to+my+Digital+Playground+🎮;Where+Code+Meets+Creativity+🎨;Full+Stack+Developer+by+Day+👨‍💻;Creative+Explorer+by+Night+🌙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0288F3&center=true&vCenter=true&repeat=false&width=800&lines= Welcome+to+my+Digital+Playground+🎮;Where+Code+Meets+Creativity+🎨;Full+Stack+Developer+by+Day+👨‍💻;Creative+Explorer+by+Night+🌙)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=aminofabian&style=for-the-badge&color=0288F3" alt="Profile Views"/>
 
