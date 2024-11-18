@@ -3,16 +3,16 @@
 # Fabian Amino
 ## Full Stack Developer | Creative Technologist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23059669.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://aminofabian.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23059669.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-amino-b6bba5253/)
-[![Twitter](https://img.shields.io/badge/Twitter-%23059669.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amino_fabian)
-[![Blog](https://img.shields.io/badge/Medium-%23059669.svg?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@aminofabian/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230288f3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://aminofabian.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23d5573c.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-amino-b6bba5253/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23f39409.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amino_fabian)
+[![Blog](https://img.shields.io/badge/Medium-%236d2431.svg?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@aminofabian/)
 
-[<img src="https://komarev.com/ghpvc/?username=aminofabian&style=for-the-badge&color=059669" alt="Profile Views"/>](https://aminofabian.com)
+[<img src="https://komarev.com/ghpvc/?username=aminofabian&style=for-the-badge&color=0288f3" alt="Profile Views"/>](https://aminofabian.com)
 
 </div>
 
-## About Me
+## <span style="color: #0288f3">About Me</span>
 
 Full Stack Developer based in Nairobi, Kenya, specializing in innovative web solutions and interactive experiences. Visit my portfolio at [aminofabian.com](https://aminofabian.com) to explore my latest projects and creative work.
 
@@ -34,44 +34,54 @@ class Developer:
     def get_tech_stack(self):
         return {
             "Frontend": ["React", "Next.js", "Three.js", "Flutter"],
-            "Backend": ["Node.js", "NestJS", "Spring", "GO"],
+            "Backend": ["Node.js", "NestJS", "Spring", "Golang"],
             "Database": ["MongoDB", "PostgreSQL", "Firebase"],
             "Cloud": ["AWS", "Heroku", "Vercel"],
             "Tools": ["Git", "Docker", "Figma", "Unity"]
         }
 ```
 
-## Technical Expertise
+## <span style="color: #d5573c">Technical Expertise</span>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#059669', 'primaryTextColor': '#fff', 'primaryBorderColor': '#047857', 'lineColor': '#059669', 'secondaryColor': '#047857'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0288f3', 'primaryTextColor': '#fff', 'primaryBorderColor': '#0288f3', 'lineColor': '#676a83'}}}%%
 mindmap
   root((Technology Stack))
-    Frontend
-      React & Next.js
+    Frontend Development
+      React and Next.js
       Three.js
       Flutter
       UI/UX Design
-    Backend
+      TypeScript
+      Tailwind CSS
+    Backend Development
       Node.js
       NestJS
-      GO
-      Spring
-    Database
+      Golang
+      Spring Boot
+      Python
+      PHP
+    Database Systems
       MongoDB
       PostgreSQL
       Firebase
-    Cloud Services
-      AWS
+      MySQL
+      Redis
+    Cloud Infrastructure
+      Amazon Web Services
+      Google Cloud Platform
       Heroku
       Vercel
-    Creative Development
+      Docker
+    Creative Technologies
       Three.js
-      Unity
+      Unity Engine
       WebGL
+      Spline
+      Figma
 ```
 
-## Featured Projects
+## <span style="color: #f39409">Featured Projects</span>
 *Explore more projects on [aminofabian.com](https://aminofabian.com)*
 
 - 🎨 **Interactive 3D Portfolio** - Built with Three.js and React
@@ -79,19 +89,19 @@ mindmap
 - 📱 **Cross-platform Apps** - Mobile solutions with Flutter
 - 🎮 **Game Development** - Interactive experiences with Unity
 
-## GitHub Analytics
+## <span style="color: #6d2431">GitHub Analytics</span>
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&hide_border=true&title_color=059669&icon_color=059669&text_color=333333)](https://github.com/aminofabian)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&hide_border=true&title_color=0288f3&icon_color=d5573c&text_color=676a83)](https://github.com/aminofabian)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminofabian&layout=compact&hide_border=true&title_color=059669&text_color=333333)](https://github.com/aminofabian)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminofabian&layout=compact&hide_border=true&title_color=0288f3&text_color=676a83)](https://github.com/aminofabian)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminofabian&theme=transparent&hide_border=true&ring=059669&fire=059669&currStreakNum=333333&sideNums=333333)](https://github.com/aminofabian)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aminofabian&theme=transparent&hide_border=true&ring=0288f3&fire=d5573c&currStreakNum=676a83&sideNums=676a83&currStreakLabel=6d2431&sideLabels=653545&dates=f39409)](https://github.com/aminofabian)
 
 </div>
 
-## Let's Connect
+## <span style="color: #653545">Let's Connect</span>
 
 - 🌐 Portfolio: [aminofabian.com](https://aminofabian.com)
 - 📧 Email: hello@aminofabian.com
@@ -101,5 +111,5 @@ mindmap
 ---
 
 <div align="center">
-<i>Creating innovative digital experiences through code and creativity. Visit <a href="https://aminofabian.com">aminofabian.com</a> to learn more.</i>
+<i style="color: #676a83">Creating innovative digital experiences through code and creativity. Visit <a href="https://aminofabian.com" style="color: #0288f3">aminofabian.com</a> to learn more.</i>
 </div>
