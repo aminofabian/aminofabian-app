@@ -12,7 +12,7 @@
 
 </div>
 
-## <span style="color: #0288f3">About Me</span>
+## <span style="color: #059669">About Me</span>
 
 Full Stack Developer based in Nairobi, Kenya, specializing in innovative web solutions and interactive experiences. Visit my portfolio at [aminofabian.com](https://aminofabian.com) to explore my latest projects and creative work.
 
@@ -41,7 +41,7 @@ class Developer:
         }
 ```
 
-## <span style="color: #d5573c">Technical Expertise</span>
+## <span style="color: #059669">Technical Expertise</span>
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0288f3', 'primaryTextColor': '#fff', 'primaryBorderColor': '#0288f3', 'lineColor': '#676a83'}}}%%
@@ -81,7 +81,7 @@ mindmap
       Figma
 ```
 
-## <span style="color: #f39409">Featured Projects</span>
+## <span style="color: #059669">Featured Projects</span>
 *Explore more projects on [aminofabian.com](https://aminofabian.com)*
 
 - 🎨 **Interactive 3D Portfolio** - Built with Three.js and React
@@ -89,7 +89,7 @@ mindmap
 - 📱 **Cross-platform Apps** - Mobile solutions with Flutter
 - 🎮 **Game Development** - Interactive experiences with Unity
 
-## <span style="color: #6d2431">GitHub Analytics</span>
+## <span style="color: #059669">GitHub Analytics</span>
 
 <div align="center">
 
@@ -101,7 +101,7 @@ mindmap
 
 </div>
 
-## <span style="color: #653545">Let's Connect</span>
+## <span style="color: #059669">Let's Connect</span>
 
 - 🌐 Portfolio: [aminofabian.com](https://aminofabian.com)
 - 📧 Email: hello@aminofabian.com
